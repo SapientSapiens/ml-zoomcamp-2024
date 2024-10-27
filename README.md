@@ -1,2 +1,2 @@
-# ml-zoomcamp-homework
-# this is a repository for submission of assignments & projects for the ML-Zoomcamp 2024
+**ml-zoomcamp-homework**
+>This is a repository for submission of assignments, notes & projects for the ML-Zoomcamp 2024
