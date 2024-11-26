@@ -1,4 +1,4 @@
-# Predicting Patient No-Shows: A Data-Driven Approach
+## Predicting Patient No-Shows: A Data-Driven Approach
 
 No-shows at hospitals create significant challenges, wasting valuable resources and delaying care for other patients. For my midterm project in the **MLZoomcamp**, hosted by **DataTalksClub** and led by **Alexey Grigorev**, I tackled the problem of predicting appointment no-shows in Brazilian hospitals using machine learning techniques. Here’s an overview of my approach:
 
@@ -33,4 +33,4 @@ This model offers valuable tools for hospitals to:
 
 ## Conclusion
 
-This project highlights how machine learning can be applied to solve real-world problems like reducing hospital no-shows. If you're interested in exploring the code and methodology, feel free to check out my **GitHub repository** for more details.
+This project highlights how machine learning can be applied to solve real-world problems like reducing hospital no-shows. If you're interested in exploring the code and methodology, feel free to check out my **GitHub repository : midtermproject-2024-mlz** for more details.
