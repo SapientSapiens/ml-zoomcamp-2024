@@ -1,6 +1,6 @@
 
 
-In **Chapter 08** of the _Machine Learning Zoomcamp 2024_ by Alexey Grigorev, the concept of **building on pre-trained models** and **improving model performance** through techniques like **dropout**, **regularization**, **checkpointing**, and **data augmentation** is emphasized. Here’s a more comprehensive summary that incorporates these aspects:
+In **Chapter 08** of the _Machine Learning Zoomcamp 2024_ by Alexey Grigorev, the concept of **building on pre-trained models** and **improving model performance** through techniques like **dropout**, **regularization**, **checkpointing**, and **data augmentation** is emphasized. Here’s a summary that incorporates these aspects:
 
 **Leveraging Pre-trained Models for Deep Learning**
 
