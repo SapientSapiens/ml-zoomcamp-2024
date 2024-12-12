@@ -1,15 +1,16 @@
 
-
+import numpy as np
 import tflite_runtime.interpreter as tflite
+
+import os
 
 from io import BytesIO
 from urllib import request
 
 from PIL import Image
 
-from io import BytesIO
-from urllib import request
-import numpy as np
+MODEL_NAME = os.getenv('MODEL_NAME', 'model_2024_hairstyle_v2.tflite')
+
 
 
 def download_image(url):
@@ -29,7 +30,7 @@ def prepare_image(img, target_size):
 def prepare_input(x):
   return x / 255.0
 
-interpreter = tflite.Interpreter(model_path='model_2024_hairstyle')
+interpreter = tflite.Interpreter(model_path=MODEL_NAME)
 interpreter.allocate_tensors()
 
 input_index = interpreter.get_input_details()[0]['index']
