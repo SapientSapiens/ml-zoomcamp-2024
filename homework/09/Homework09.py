@@ -9,7 +9,8 @@ from urllib import request
 
 from PIL import Image
 
-MODEL_NAME = os.getenv('MODEL_NAME', 'model_2024_hairstyle_v2.tflite')
+#MODEL_NAME = os.getenv('MODEL_NAME', 'model_2024_hairstyle_v2.tflite')
+MODEL_NAME = os.getenv('MODEL_NAME', 'model_2024_hairstyle.tflite')
 
 
 
