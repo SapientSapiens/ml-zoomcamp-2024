@@ -1,4 +1,4 @@
-## Publishing it to AWS ##
+## Deploying the containerized model at AWS ECR and accessing it with a Lambda function through an API Gateway ##
 
  ### Publishing the image to ECR ###
 
