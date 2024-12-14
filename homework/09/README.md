@@ -138,8 +138,7 @@
 
  ![alt text](<images/final test script to test the lambda function through API gateway.jpg>)
 
- - ### The test script successfully executes, calling the lambda function through tthe API ###
+ - ### As we can see from the above image, the test script executes successfully, calling the lambda function through tthe API ###
 
- ![alt text](images/test_script_run.jpg)
 
 
