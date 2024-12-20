@@ -3,7 +3,7 @@
 
  ### *Building the Docker image as per instruction* ###
 
- ![alt text](image.png)
+ ![alt text](images/0.jpg)
 
  ### *Question 1* ###
 
